@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+}
+.abstract{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 650px;
+    margin-left: 100px auto;
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+.text{
+    flex-basis: 60%;
+    padding: 80px;
+}
+img{
+    width: 100%;
+    height: 600px;
+}
+h2{
+    font-family: cursive;
+    font-size: medium;
+    color: burlywood;
+    padding-bottom: 80%;
+}
